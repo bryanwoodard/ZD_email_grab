@@ -2,6 +2,7 @@
 Simple Script to grab emails from ZD
 
 Add Following code as a bookmarklet
+	- Paste full code as the URL like you would a bookmark
 
 Instructions to use:
 	- wait until page loads
