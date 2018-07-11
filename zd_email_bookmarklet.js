@@ -21,7 +21,7 @@ javascript:(function(){
 	};
 	
 	console.log(email_array);
-	if(email_array.length == 0 && email_array[0] == null){
+	if(email_array[0] == null){
 		alert("Make sure you expand the cc's box and hover over each person until the tooltip shows with their email.  Try it again");
 	}else{
 		/*/alert(email_array);*/
